@@ -1,0 +1,1 @@
+console.log(["chennai","mumbai","bangalore"]);
